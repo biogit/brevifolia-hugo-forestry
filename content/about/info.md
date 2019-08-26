@@ -2,12 +2,6 @@
 title: About
 date: 2019-08-25T20:13:19+00:00
 background_color: "#B4CEC8"
-contact_info:
-  twitter_handle: ''
-  github_handle: ''
-  email: ''
-  twitter_url: https://twitter.com/forestryio
-  github_url: https://github.com/forestryio
 type: ''
 
 ---
