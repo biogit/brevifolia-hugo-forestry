@@ -87,7 +87,7 @@ a {
   transition: opacity .2s ease;
 }
 
-p a { text-decoration: underline;
+div.post_body p a { text-decoration: underline;
 }
 
 a:hover {
@@ -101,5 +101,5 @@ ul {
   margin: 0;
 }
 
-.post_body ul a { text-decoration: underline;
+div.post_body ul a { text-decoration: underline;
 }
