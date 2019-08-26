@@ -30,6 +30,12 @@ fields:
 - type: file
   name: hero
   label: Hero Image
+- name: summary
+  type: text
+  config:
+    required: false
+  label: Summary
+  description: Summary for blog index.
 pages:
 - content/blog-posts/first-post.md
 - content/blog-posts/geneology-of-morals.md
