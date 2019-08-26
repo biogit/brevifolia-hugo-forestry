@@ -14,7 +14,7 @@ Not really, actually tastes kind of chalky.
 
 ### Colors of the Rainbow
 
-Well, there are seven colors in this image, but not quite the traditional "rainbow" ones, nor are they in the correct [order](https://en.wikipedia.org/wiki/ROYGBIV "colors of the rainbow").
+Well, there are seven colors in the [full version](https://unsplash.com/photos/1v1zjqxldmc "chalk houses") of the hero image, but not quite the traditional "rainbow" ones, nor are they in the correct [order](https://en.wikipedia.org/wiki/ROYGBIV "colors of the rainbow").
 
 ### Homepage Icons?
 
@@ -24,4 +24,4 @@ Too bad that clicking is disabled and refresh rates are rather low.
 
 #### Image Credit
 
-[Chalk houses](https://unsplash.com/photos/1v1zjqxldmc) by Miki Fath.
+[Chalk houses](https://unsplash.com/photos/1v1zjqxldmc) by [Miki Fath](https://unsplash.com/@m_fath).
