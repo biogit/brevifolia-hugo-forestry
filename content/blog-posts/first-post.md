@@ -1,7 +1,6 @@
 +++
 author = "GQ Chalk"
 date = "2015-08-23T20:00:00+00:00"
-draft = true
 hero = "/images/marianne-bos-WV6hCFDT9Rg-unsplash.jpg"
 title = "First Post"
 type = "blog"
