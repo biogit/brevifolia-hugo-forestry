@@ -9,7 +9,7 @@ type = "blog"
 +++
 ## Hello World
 
-is the traditional content for the first blog post.
+The traditional greeting to open the first blog post.
 
 ### Starting with a Clean Slate
 
