@@ -2,7 +2,7 @@
 author = "GQ Chalk"
 date = "2015-08-23T20:00:00+00:00"
 hero = "/images/marianne-bos-WV6hCFDT9Rg-unsplash.jpg"
-summary = "Test summary."
+summary = "Hello World!"
 title = "First Post"
 type = "blog"
 
