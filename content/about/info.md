@@ -21,7 +21,7 @@ To quickly setup and start managing the blog on _Forestry_, it was deployed from
 
 #### Source Files
 
-Source files for the _Hugo_ SSG are hosted on [GitHub](https://github.com/ "code development platform").
+Source files for the _Hugo_ SSG are hosted on [**GitHub**](https://github.com/ "code development platform").
 
 #### Static Site Deployment
 
