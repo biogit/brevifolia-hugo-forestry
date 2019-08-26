@@ -37,5 +37,6 @@ fields:
   label: Summary
   description: Summary for blog index.
 pages:
+- content/blog-posts/the-home-of-chalk.md
 - content/blog-posts/physical-and-ephemeral.md
 - content/blog-posts/first-post.md
