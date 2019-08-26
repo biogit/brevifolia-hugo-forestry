@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2019-08-25T20:13:19+00:00
+date: 2019-08-25T20:13:19.000+00:00
 background_color: "#B4CEC8"
 type: ''
 
@@ -15,7 +15,7 @@ This site is managed using [Forestry](https://forestry.io/ "A static CMS that co
 
 ### Starter Template
 
-To quickly setup and start managing the blog on _Forestry_, it was deployed from the [Brevifolia](https://github.com/kendallstrautman/brevifolia-hugo-forestry "start Hugo blog on Forestry CMS") starter template. 
+To quickly setup and start managing the blog on _Forestry_, it was deployed from the [Brevifolia](https://github.com/kendallstrautman/brevifolia-hugo-forestry "start Hugo blog on Forestry CMS") starter template.
 
 ## Hosting
 
