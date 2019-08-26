@@ -1,7 +1,6 @@
 +++
 author = "GQ Chalk"
 date = "2016-01-15T16:00:00+00:00"
-draft = true
 hero = "/images/ivan-bandura-H5M5k2EMO28-unsplash.jpg"
 summary = "Eternal record of the ephemeral micro-organisms in the White Cliffs of Dover."
 title = "Eternal Ephemera"
