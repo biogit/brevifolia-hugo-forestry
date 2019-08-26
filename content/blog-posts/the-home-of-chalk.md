@@ -1,7 +1,6 @@
 +++
 author = "GQ Chalk"
 date = "2015-09-06T23:00:00+00:00"
-draft = true
 hero = "/images/miki-fath-1v1zjqxldmc-unsplash.jpg"
 summary = "A colorful rendering of the homepage icon in chalk."
 title = "The Home of Chalk"
