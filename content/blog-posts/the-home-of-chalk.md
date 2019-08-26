@@ -1,6 +1,7 @@
 +++
 author = "GQ Chalk"
 date = "2015-09-06T23:00:00+00:00"
+draft = true
 hero = "/images/miki-fath-1v1zjqxldmc-unsplash.jpg"
 summary = "A colorful rendering of the homepage icon in chalk."
 title = "The Home of Chalk"
@@ -23,4 +24,4 @@ Too bad that clicking is disabled and refresh rates are rather low.
 
 #### Image Credit
 
-[Chalk houses](https://unsplash.com/photos/1v1zjqxldmc) by [Miki Fath]().
+[Chalk houses](https://unsplash.com/photos/1v1zjqxldmc) by Miki Fath.
