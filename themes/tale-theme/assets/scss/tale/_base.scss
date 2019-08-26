@@ -81,10 +81,13 @@ p {
 }
 
 a {
-  text-decoration: underline;
+  text-decoration: none;
   color: inherit;
   opacity: 1;
   transition: opacity .2s ease;
+}
+
+p a { text-decoration: underline;
 }
 
 a:hover {
@@ -96,4 +99,7 @@ a:hover {
 ul {
   list-style: none;
   margin: 0;
+}
+
+ul a { text-decoration: underline;
 }
