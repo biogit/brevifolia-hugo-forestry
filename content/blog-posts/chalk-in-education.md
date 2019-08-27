@@ -1,7 +1,6 @@
 +++
 author = "GQ Chalk"
 date = "2016-07-07T16:00:00+00:00"
-draft = true
 hero = "/images/deleece-cook-zzjLGF_6dx4-unsplash.jpg"
 summary = "The history of blackboards in schools goes back for centuries."
 title = "Chalk in Education"
