@@ -37,6 +37,7 @@ fields:
   label: Summary
   description: Summary for blog index.
 pages:
+- content/blog-posts/chalk-in-education.md
 - content/blog-posts/sharp-elegant-and-curvy.md
 - content/blog-posts/eternal-ephemera.md
 - content/blog-posts/physical-and-ephemeral.md
