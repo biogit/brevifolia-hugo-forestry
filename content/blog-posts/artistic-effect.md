@@ -1,7 +1,6 @@
 +++
 author = "GQ Chalk"
 date = "2018-08-10T18:00:00+00:00"
-draft = true
 hero = "/images/syarafina-yusof-hFwOv7zxHYw-unsplash.jpg"
 summary = "Creative use of chalk for artistic effects."
 title = "Artistic Effect"
