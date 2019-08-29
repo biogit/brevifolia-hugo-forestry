@@ -1,7 +1,6 @@
 +++
 author = "GQ Chalk"
 date = "2019-05-06T21:00:00+00:00"
-draft = true
 hero = "/images/barry-mcgee-6tGveLaf76E-unsplash.jpg"
 summary = "Does coffee poured without a chalk-art background make a sound?"
 title = "Chalk and Coffee"
