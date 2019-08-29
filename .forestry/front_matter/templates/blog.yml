@@ -37,6 +37,7 @@ fields:
   label: Summary
   description: Summary for blog index.
 pages:
+- content/blog-posts/sidewalk-art.md
 - content/blog-posts/ephemeral-directions.md
 - content/blog-posts/chalk-messages.md
 - content/blog-posts/chalk-in-education.md
