@@ -1,7 +1,6 @@
 +++
 author = "GQ Chalk"
 date = "2018-10-31T00:00:00+00:00"
-draft = true
 hero = "/images/simon-zhu-3cDFN5hD10E-unsplash.jpg"
 summary = "Holiday ephemera for an ephemeral holiday."
 title = "Chalk at Halloween"
