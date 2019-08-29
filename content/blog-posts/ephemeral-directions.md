@@ -1,7 +1,6 @@
 +++
 author = "GQ Chalk"
 date = "2017-03-10T20:00:00+00:00"
-draft = true
 hero = "/images/scott-webb-CQEunDe3im0-unsplash.jpg"
 summary = "Chalk is perfect for leaving here-today gone-tomorrow directions."
 title = "Ephemeral Directions"
