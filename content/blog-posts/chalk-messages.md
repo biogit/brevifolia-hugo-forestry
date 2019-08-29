@@ -1,7 +1,6 @@
 +++
 author = "GQ Chalk"
 date = "2016-12-05T20:00:00+00:00"
-draft = true
 hero = "/images/jon-tyson-UK61KZPnpyY-unsplash.jpg"
 summary = "The original Twitter-like public messaging was done in chalk."
 title = "Chalk Messages"
