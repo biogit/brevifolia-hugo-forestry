@@ -1,7 +1,6 @@
 +++
 author = "GQ Chalk"
 date = "2017-07-25T08:00:00+00:00"
-draft = true
 hero = "/images/bertrand-gabioud-xt2enaQh20M-unsplash.jpg"
 summary = "Faces of ephemeral masterpieces or the smiley kind."
 title = "Sidewalk Art"
