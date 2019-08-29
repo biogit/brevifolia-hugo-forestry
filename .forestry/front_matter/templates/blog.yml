@@ -37,6 +37,7 @@ fields:
   label: Summary
   description: Summary for blog index.
 pages:
+- content/blog-posts/chalk-at-halloween.md
 - content/blog-posts/artistic-effect.md
 - content/blog-posts/chalk-and-colors.md
 - content/blog-posts/chalky-comment.md
