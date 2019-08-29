@@ -2,7 +2,7 @@
 author = "GQ Chalk"
 date = "2017-11-12T18:00:00+00:00"
 draft = true
-hero = ""
+hero = "/images/1xYghfYyI7I-unsplash.jpg"
 summary = "Chalk is the perfect medium for leaving cheeky comments."
 title = "Chalky Comment"
 type = "blog"
