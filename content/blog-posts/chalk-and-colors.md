@@ -1,7 +1,6 @@
 +++
 author = "GQ Chalk"
 date = "2018-01-22T16:00:00+00:00"
-draft = true
 hero = "/images/jason-leung-27wwTHC7Zfo-unsplash.jpg"
 summary = "Cheap and cheerful pastel colors of chalk."
 title = "Chalk and Colors"
